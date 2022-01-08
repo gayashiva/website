@@ -14,7 +14,7 @@ organizations:
   url: https://www3.unifr.ch/geo/cryosphere/en/projects/smd4gc/artificial-ice-reservoirs.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include icestupas and glacier modelling.
 
 # Interests to show in About widget
 interests:
