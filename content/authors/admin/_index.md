@@ -28,10 +28,10 @@ education:
   - course: PhD in Artificial Ice Reservoirs
     institution: University of Fribourg
     year: 2018
-  - course: Manager and Researcher Icestupa Project
-    institution: Himalayan Institute of Alternatives Ladakh
+  - course: India Fellow with Sonam Wangchuk
+    institution: Students Educational and Cultural Movement of Ladakh
     year: 2015
-  - course: Bachelors and Masters in Mathematics
+  - course: Masters in Mathematics
     institution: National Institute of Science Eduction and Research
     year: 2010
 
@@ -40,15 +40,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# - icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/know_just_ice
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gayashiva
