@@ -12,7 +12,7 @@ location: Fribourg, Switzerland
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Talk about the influence of meteorological conditions on Icestupas.
 
 abstract: "Since 2014, mountain communities in Ladakh, India have been constructing dozens of Artificial Ice
 Reservoirs (AIRs) by spraying water through fountain systems every winter. The meltwater from these structures
@@ -30,12 +30,12 @@ could provide a relatively affordable and sustainable strategy to mitigate clima
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-11-29T13:00:00Z"
+date_end: "2021-11-29T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -43,16 +43,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   # focal_point: Right
 
 links:
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Watch
+  url: https://youtu.be/WwnfSO3gJBo
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -82,10 +81,4 @@ projects: []
 
 
 {{< youtube WwnfSO3gJBo >}}
-Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
