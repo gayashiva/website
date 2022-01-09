@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:suryanarayanan.balasubramanian@unifr.ch'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/know_just_ice
@@ -72,4 +72,4 @@ highlight_name: true
 
 Suryanarayanan Balasubramanian is a PhD Candidate at the University of Fribourg (UniFR). His background is in Environmental Sciences and Atmospheric Physics. With his team at UniFR and Himalayan Institute of Alternatives (HIAL), he develops the artificial ice reservoir (AIR) technology for application as a water resource management strategy. He leads the development of the AIR model system which can not just quantify the daily meltwater obtained but also automate AIR construction to reduce water loss and increase meltwater quantities based on weather and fountain data input.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1wu-14rKG24waWIDd03zzDmm1_j7s5eZS/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
