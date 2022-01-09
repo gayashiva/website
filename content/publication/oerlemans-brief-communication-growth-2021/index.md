@@ -11,7 +11,7 @@ authors:
 - C. Clavuot
 - F. Keller
 tags:
-- '#paper2'
+- ''
 categories: []
 date: '2021-01-01'
 lastmod: 2022-01-09T19:26:42+05:30
