@@ -4,7 +4,7 @@
 widget: portfolio
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -30,8 +30,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Softwares
+    tag: Softwares
+  - name: Icestupas
+    tag: Icestupas
   - name: Other
     tag: Demo
 
