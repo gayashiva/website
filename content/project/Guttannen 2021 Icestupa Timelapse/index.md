@@ -1,6 +1,6 @@
 ---
 title: Guttannen 2021 Icestupa Timelapse
-summary: A physical model that estimates lake ice thickness.
+summary: Timelapse video of Guttannen Icestupa
 tags:
 - Gallery
 date: "2018-12-01T00:00:00Z"
