@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Suryanarayanan Balasubramanian is a PhD Candidate at the University of Fribourg (UniFR). His background is in Environmental Sciences and Atmospheric Physics. With his team at UniFR and Himalayan Institute of Alternatives (HIAL), he develops the artificial ice reservoir (AIR) technology for application as a water resource management strategy. He leads the development of the AIR model system which can not just quantify the daily meltwater obtained but also automate AIR construction to reduce water loss and increase meltwater quantities based on weather and fountain data input.
+Suryanarayanan Balasubramanian is a PhD Candidate at the University of Fribourg (UniFR). His background is in Environmental Sciences and Atmospheric Physics. With his team at UniFR and Himalayan Institute of Alternatives (HIAL), he develops the artificial ice reservoir (AIR) technology for application as a water resource management strategy. He leads the development of the AIR model system which can automate AIR construction to reduce water loss and increase meltwater quantities based on weather and fountain data input.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1wu-14rKG24waWIDd03zzDmm1_j7s5eZS/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
