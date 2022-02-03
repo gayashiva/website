@@ -19,8 +19,8 @@ bio: My research interests include icestupas and glacier modelling.
 # Interests to show in About widget
 interests:
 - Icestupas
-- Artificial Ice Reservoirs
 - Glacier Modelling
+- Mortalive
 
 # Education to show in About widget
 education:
