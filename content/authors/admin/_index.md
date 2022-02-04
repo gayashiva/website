@@ -20,7 +20,9 @@ bio: My research interests include icestupas and glacier modelling.
 interests:
 - Icestupas
 - Glacier Modelling
-- Mortalive
+- Software development
+- MortAlive
+- Blockchain
 
 # Education to show in About widget
 education:
@@ -52,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gayashiva
-- icon: linkedin
+- icon: instagram
   icon_pack: fab
-  link: https://www.linkedin.com/in/suryanarayanan-balasubramanian-a0a309a3/
+  link: https://www.instagram.com/know_ice/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
