@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Brief Communication: Growth and Decay of an Ice Stupa in Alpine Conditions
-  – a Simple Model Driven by Energy-Flux Observations over a Glacier Surface'
+title: 'Brief communication: Growth and decay of an ice stupa in alpine conditions
+  -- a simple model driven by energy-flux observations over a glacier surface'
 subtitle: ''
 summary: ''
 authors:
@@ -32,10 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-09T13:56:41.990876Z'
+publishDate: '2022-02-13T11:23:21.704699Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*The Cryosphere*'
 doi: 10.5194/tc-15-3007-2021
+links:
+- name: URL
+  url: https://tc.copernicus.org/articles/15/3007/2021/
 ---

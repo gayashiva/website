@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T10:42:39.395094Z'
+publishDate: '2022-02-13T11:23:21.589819Z'
 publication_types:
 - '2'
 abstract: Man-made ice towers provide water during the growing season in the high-elevation
@@ -38,5 +38,5 @@ publication: '*Nature Climate Change*'
 doi: 10.1038/s41558-021-01260-x
 links:
 - name: URL
-  url: https://doi.org/10.1038/s41558-021-01260-x
+  url: https://rdcu.be/cGKPQ
 ---
