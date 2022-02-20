@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Suryanarayanan Balasubramanian
+title: Surya B
 
 # Is this the primary user of the site?
 superuser: true
