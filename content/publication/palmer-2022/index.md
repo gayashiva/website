@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T11:23:21.589819Z'
+publishDate: '2022-02-27T08:00:14.251585Z'
 publication_types:
 - '2'
 abstract: Man-made ice towers provide water during the growing season in the high-elevation
