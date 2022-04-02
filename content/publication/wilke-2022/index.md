@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Storing frozen water to adapt to climate change
+title: Ice towers may hold promise—and water—for some cold, dry places
 subtitle: ''
 summary: ''
 authors:
-- Lisa Palmer
+- C. Wilke
 tags: []
 categories: []
-date: '2022-02-01'
+date: '2022-04-01'
 lastmod: 2022-04-02T15:03:20+02:00
 featured: false
 draft: false
@@ -27,16 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-02T13:03:20.180675Z'
+publishDate: '2022-04-02T13:03:20.072113Z'
 publication_types:
 - '2'
-abstract: Man-made ice towers provide water during the growing season in the high-elevation
-  desert in the Himalayas to buffer effects of climate change. Local and international
-  science partnerships are now working to develop technologies to make these ice stupas
-  more efficient.
-publication: '*Nature Climate Change*'
-doi: 10.1038/s41558-021-01260-x
-links:
-- name: URL
-  url: https://rdcu.be/cGKPQ
+abstract: A new study that cues into the formation of ice cones for storing glacial
+  meltwater reveals how the structures can be built more efficiently and which climatic
+  conditions work best.
+publication: '*Eos*'
+doi: 10.1029/2022EO220173
 ---

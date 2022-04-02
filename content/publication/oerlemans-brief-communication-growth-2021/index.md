@@ -10,11 +10,10 @@ authors:
 - S. Balasubramanian
 - C. Clavuot
 - F. Keller
-tags:
-- ''
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-01-09T19:26:42+05:30
+lastmod: 2022-04-02T15:03:20+02:00
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-27T08:00:14.352834Z'
+publishDate: '2022-04-02T13:03:20.301979Z'
 publication_types:
 - '2'
 abstract: ''
