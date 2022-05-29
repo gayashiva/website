@@ -21,7 +21,6 @@ interests:
 - Icestupas
 - Glacier Modelling
 - Software development
-- MortAlive
 - Blockchain
 
 # Education to show in About widget
