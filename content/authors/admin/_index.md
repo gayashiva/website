@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Artificial Ice Reservoirs
     institution: University of Fribourg
-    year: 2018
+    year: 2022
   - course: India Fellow with Sonam Wangchuk
     institution: Students Educational and Cultural Movement of Ladakh
-    year: 2015
+    year: 2016
   - course: Masters in Mathematics
     institution: National Institute of Science Eduction and Research
-    year: 2010
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
