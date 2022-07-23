@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2022-04-01'
-lastmod: 2022-04-02T15:03:20+02:00
+lastmod: 2022-07-23T12:53:42+02:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-02T13:03:20.072113Z'
+publishDate: '2022-07-23T10:53:42.477171Z'
 publication_types:
 - '2'
 abstract: A new study that cues into the formation of ice cones for storing glacial

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Gefroren Um Zu Schmelzen
+title: How to Build Better Ice Towers for Drinking Water and Irrigation
 subtitle: ''
 summary: ''
 authors:
-- Benedikt Meyer
+- Nikk Ogasa
 tags: []
 categories: []
-date: '2022-04-01'
+date: '2022-07-01'
 lastmod: 2022-07-23T12:53:42+02:00
 featured: false
 draft: false
@@ -27,13 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-23T10:53:42.367199Z'
+publishDate: '2022-07-23T10:53:42.261825Z'
 publication_types:
 - '2'
-abstract: 'Der Klimawandel führt im Sommer zu Wasserknappheit – und das an vielen
-  Orten auf der Welt. Was tun? Gletscher bauen? Jawohl: Gletscher bauen.'
-publication: '*Universitas*'
+abstract: "``Ice stupas'' emerged in 2014 as a way to cope with climate change shrinking\
+  \ glaciers. Automation could help improve the cones' construction."
+publication: '*Science News*'
 links:
 - name: URL
-  url: https://www.unifr.ch/universitas/fr/editions/2021-2022/la-verite/gefroren-um-zu-schmelzen.html
+  url: https://www.sciencenews.org/article/ice-stupa-tower-india-drinking-water-irrigation
 ---

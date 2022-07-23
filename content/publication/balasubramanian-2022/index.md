@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-04-02T15:03:20+02:00
+lastmod: 2022-07-23T12:53:42+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-02T13:03:20.413169Z'
+publishDate: '2022-07-23T10:53:42.797261Z'
 publication_types:
 - '2'
 abstract: Since 2014, mountain communities in Ladakh, India have been constructing
